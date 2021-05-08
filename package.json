@@ -2,7 +2,7 @@
   "name": "playtrick.co",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://sozsahin.github.io/playtrick.co",
+  "homepage": "https://playtrick.co",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
