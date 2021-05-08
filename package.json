@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sozsahin.github.io/playtrick.co",
+  "homepage": "https://sozsahin.github.io/playtrick.co",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

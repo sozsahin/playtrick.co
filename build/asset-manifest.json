@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/playtrick.co/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/playtrick.co/static/js/main.78c25d29.chunk.js",
+    "main.js.map": "/playtrick.co/static/js/main.78c25d29.chunk.js.map",
+    "runtime-main.js": "/playtrick.co/static/js/runtime-main.fd9f801b.js",
+    "runtime-main.js.map": "/playtrick.co/static/js/runtime-main.fd9f801b.js.map",
+    "static/js/2.dbea3b6e.chunk.js": "/playtrick.co/static/js/2.dbea3b6e.chunk.js",
+    "static/js/2.dbea3b6e.chunk.js.map": "/playtrick.co/static/js/2.dbea3b6e.chunk.js.map",
+    "static/js/3.8f4aba9b.chunk.js": "/playtrick.co/static/js/3.8f4aba9b.chunk.js",
+    "static/js/3.8f4aba9b.chunk.js.map": "/playtrick.co/static/js/3.8f4aba9b.chunk.js.map",
+    "index.html": "/playtrick.co/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/playtrick.co/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dbea3b6e.chunk.js.LICENSE.txt": "/playtrick.co/static/js/2.dbea3b6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/playtrick.co/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd9f801b.js",
+    "static/js/2.dbea3b6e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.78c25d29.chunk.js"
+  ]
+}
